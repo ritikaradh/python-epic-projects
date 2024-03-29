@@ -1,0 +1,52 @@
+01 DAY9
+    COMMAND TO CONVERT A IPYNB FILE TO PYTHON SCRIPT
+    write the command below in terminal
+    jupyter nbconvert --to python filename.ipynb
+
+02 DAY10
+    a. return denotes the end of a function i.e., 
+        the control gets out of the function,
+    b. docstrings- used for documentation stated at the top-most
+        line of a package, function.
+        Denoted in """ """ or ''' '''.
+    c. shortcut for multi-line comment in Python- Windows
+        Press "CTRL + /"
+    d. switch in C is similar to a dictionary in Python.
+        e.g., calculator program.
+    e. "flag": 
+
+03 DAY11
+    a. cards without replacement using Python
+    b. play again and clear the console
+
+04 DAY12
+    a. Opponent- "Skeleton", "Zombie", "Alien"
+    b. Naming the global variable and local variable the same can be a very terrible idea, 
+        something which is basically more terrible is that trying to modify the value of
+        a global variable inside a function.
+    c. global variable can be accessed inside a function using the "global" keyword.
+
+05 DAY13- Debugging 
+    a. Steps to Debug-
+        i.      Describe the problem clearly in your mind
+        ii.     Reproduce the bug, because when you encounter a bug once, but not the next time,
+                it becomes really difficult to solve it. 
+                Try to find the question to the answer when does the bug actually occurs?
+        iii.    Play computer or Pretend to be the computer yourself,
+                to understand the problem.
+        iv.     Fix the errors, when the editor is giving you an error or
+                the console is giving you an error-- fix the error before you continue.
+                Use Google for the error given by the console.
+        v.      Use "print statement" wherever you feel there's a line of code which is
+                broken to find out the bug or error.
+        vi.     Use a debugger
+                -> use line by line execution thing of vs code
+                -> use PythonTutor for visualizing what actually is happening inside the code.
+        vii.    Take Rest, tackle it next time.
+        viii.   Ask a Friend over Discord.
+        ix.     Run often.
+                -> Run your code often.
+        x.      Ask stackoverflow.
+
+06 DAY16- PyPI (Python Package Index)
+    Learn to install it for VS Code.
